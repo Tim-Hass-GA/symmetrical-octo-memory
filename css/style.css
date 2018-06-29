@@ -1,0 +1,9 @@
+h1 {
+  background-color: pink;
+}
+
+.active {
+  font-weight: 800;
+  font-size: 1.25em;
+  background-color: pink;
+}
